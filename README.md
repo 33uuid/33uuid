@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Python / SQL / JavaScript
+  Python / Lua
 </p>
 
 <p align="center">
